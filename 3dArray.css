@@ -1,0 +1,15 @@
+<!-- Changing random greetings text -->
+    <script language="JavaScript">
+
+var r_text = new Array ();
+r_text[0] = "g'day !"; <!-- Australia --><!-- http://www.urbandictionary.com/define.php?term=g'day -->
+r_text[1] = "Olá!"; <!-- Portuguese --><!-- https://www.flickr.com/groups/flickrideas/discuss/72157600044151892/ -->
+r_text[2] = "Hola!"; <!-- Spanish --><!-- http://en.wikipedia.org/wiki/Hola -->
+r_text[3] = "Konnichiwa!"; <!-- Japanese --><!-- http://www.urbandictionary.com/define.php?term=konnichiwa -->
+r_text[4] = "Zdravo!"; <!-- Macedonian --><!-- http://learn-mk.com/lesson1.php -->
+r_text[5] = "Cześć!"; <!-- Polish --><!-- http://simple.wikipedia.org/wiki/Polish_language -->
+r_text[6] = "Kia ora!"; <!-- Māori --><!-- http://en.wikipedia.org/wiki/Kia_ora -->
+r_text[7] = "Ciao!"; <!-- Italian --><!--http://en.wikipedia.org/wiki/Ciao
+r_text[8] = "nuqneH?"; <!-- Klingon --><!-- http://mrklingo.freeshell.org/aol/jpklingon/allyouneed.html -->
+var i = Math.floor(7*Math.random())
+</script> 
